@@ -1,4 +1,4 @@
-#REACT NOTIFY APP
+# REACT NOTIFY APP
 React toast component with different types and conatainer
 # Getting Started with Create React App
 
